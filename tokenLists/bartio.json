@@ -88,11 +88,13 @@
       "decimals": 18,
       "logoURI": "https://game.grandconquest.com/game/conquest/icons/gold.svg",
       "tags": []
+    },
+    {
+      "chainId": 80084,
+      "address": "0x7E14E2C2E294466b4A4b37A958317E5aeD47494F",
+      "symbol": "PEPE",
+      "name": "Pepe Coin",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/29850/standard/pepe-token.jpeg?1696528776",
+      "tags": []
     }
-  ],
-  "version": {
-    "major": 1,
-    "minor": 0,
-    "patch": 0
-  }
-}
